@@ -6,7 +6,7 @@ Guía para descargar archivos de internet sin necesidad de usar una VPN constant
 ### 1. Acceder al Link de Descarga con VPN
 
 1. **Conéctate a una VPN**: Utiliza tu VPN preferida para acceder desde el navegador al link de descarga del archivo que necesitas.
-2. **Obtén el Link de Descarga**: Copia el link de descarga del archivo.
+2. **Obtén el Link de Descarga**: Copia el link de descarga del archivo y desactiva la VPN.
 ![image](https://github.com/user-attachments/assets/7c18fd29-72d6-41ac-bba5-d74de5503079)
 
 ### 2.Shell en Google Colab
